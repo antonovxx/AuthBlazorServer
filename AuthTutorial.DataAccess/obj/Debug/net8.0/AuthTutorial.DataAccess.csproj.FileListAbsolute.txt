@@ -1,0 +1,17 @@
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.DataAccess.deps.json
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.DataAccess.runtimeconfig.json
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.DataAccess.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.DataAccess.pdb
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.Domain.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\bin\Debug\net8.0\AuthTutorial.Domain.pdb
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.AssemblyInfo.cs
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.csproj.CopyComplete
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\refint\AuthTutorial.DataAccess.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.pdb
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\AuthTutorial.DataAccess.genruntimeconfig.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.DataAccess\obj\Debug\net8.0\ref\AuthTutorial.DataAccess.dll

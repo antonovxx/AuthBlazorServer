@@ -1,0 +1,11 @@
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\bin\Debug\net8.0\AuthTutorial.Domain.deps.json
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\bin\Debug\net8.0\AuthTutorial.Domain.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\bin\Debug\net8.0\AuthTutorial.Domain.pdb
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.AssemblyInfoInputs.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.AssemblyInfo.cs
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\refint\AuthTutorial.Domain.dll
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\AuthTutorial.Domain.pdb
+C:\Users\AntonKurin\Documents\test projects\AuthTutorial\AuthTutorial.Domain\obj\Debug\net8.0\ref\AuthTutorial.Domain.dll

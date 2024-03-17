@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTutorial.Web", "AuthTutorial.Web\AuthTutorial.Web.csproj", "{A79CA93B-682E-4747-A1CA-BCF96FB98E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTutorial.Domain", "AuthTutorial.Domain\AuthTutorial.Domain.csproj", "{1D97A657-B816-4484-827F-518E7369CF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTutorial.DataAccess", "AuthTutorial.DataAccess\AuthTutorial.DataAccess.csproj", "{9255221D-0A32-439B-9DC9-7AE35B8780AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79CA93B-682E-4747-A1CA-BCF96FB98E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79CA93B-682E-4747-A1CA-BCF96FB98E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79CA93B-682E-4747-A1CA-BCF96FB98E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79CA93B-682E-4747-A1CA-BCF96FB98E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D97A657-B816-4484-827F-518E7369CF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D97A657-B816-4484-827F-518E7369CF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D97A657-B816-4484-827F-518E7369CF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D97A657-B816-4484-827F-518E7369CF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9255221D-0A32-439B-9DC9-7AE35B8780AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9255221D-0A32-439B-9DC9-7AE35B8780AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9255221D-0A32-439B-9DC9-7AE35B8780AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9255221D-0A32-439B-9DC9-7AE35B8780AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

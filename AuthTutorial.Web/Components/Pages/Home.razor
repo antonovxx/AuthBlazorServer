@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<div class="row">
+    <div class="col-12">
+        <h2 class="fw-bolder">Welcome</h2>
+    </div>
+    
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <AuthorizeView Roles="casino_admin">
+                    <NotAuthorized>
+                        <span>You are not logged in. Please <a href="/login">click here</a></span>
+                    </NotAuthorized>
+                    <Authorized>
+                        <span>Logged in as <b>@context.User.Identity.Name</b></span>
+                        <span><a href="/logout">Click here</a> to logout</span>
+                    </Authorized>
+                </AuthorizeView>
+            </div>
+        </div>
+    </div>
+</div>

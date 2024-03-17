@@ -1,0 +1,37 @@
+﻿@page "/counter"
+@using AuthTutorial.Services
+@rendermode InteractiveServer
+@inject IJSRuntime js
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<AuthorizeView>
+    <Authorized>
+        <button class="btn btn-outline-primary" @onclick="DisplayGreetingAlert"></button>
+    </Authorized>
+</AuthorizeView>
+@code {
+    private int currentCount = 0;
+    
+    [CascadingParameter]
+    private Task<AuthenticationState> AuthenticationStateTask { get; set; }
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private async Task DisplayGreetingAlert()
+    {
+        var authenticcationState = await AuthenticationStateTask;
+        var message = $"$Hello {authenticcationState.User.Identity?.Name}";
+        await js.InvokeVoidAsync("alert", message);
+    }
+
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AuthTutorial.Web.props" />
+</Project>
